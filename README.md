@@ -4,7 +4,7 @@ The Project predicts the success of a movie based on various criteria like actor
 
 ### Modules required are
 * Networkx      
-	pip install networkx 
+	`pip install networkx`
 * Imdbpie        
 	pip install imdbpie
 * Tweepy (To run twitter code)     
