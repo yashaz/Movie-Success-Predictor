@@ -6,11 +6,11 @@ The Project predicts the success of a movie based on various criteria like actor
 * Networkx      
 	`pip install networkx`
 * Imdbpie        
-	pip install imdbpie
+	`pip install imdbpie`
 * Tweepy (To run twitter code)     
-	pip install tweepy
+	`pip install tweepy`
 * nltk           
-	pip install nltk
+	`pip install nltk`
 	then run nltk.download() in python shell to download all the nltk files
 
 ### Steps to run the code
